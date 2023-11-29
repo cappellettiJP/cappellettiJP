@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cappellettiJP
-- 👀 I’m a student of Full Stack Developer
-- 🌱 I’m currently learning to use GitHub and Front End 
+- 👀 I’m a Full Stack Developer and DevOps
+- 🌱 I’m currently learning DevOps and DevSecOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me juanpablocappelletti@gmail.com
 
